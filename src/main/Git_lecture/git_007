@@ -1,0 +1,12 @@
+reset 사용
+
+    선택한 버전의 상태로 돌아가는 것
+    버전을 지워버림
+
+    reset main to this commit
+    hard - 다 삭제
+    mixed - working copy, unstaged는 남음
+    soft - 커밋할수있는 상태로 되돌아감
+
+    원격저장소에 저장되어있지 않으면 파일이 날아간다
+    강제 push가 필요하다
