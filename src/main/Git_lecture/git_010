@@ -3,3 +3,14 @@ Rebase
 
     Merge와 달리 트리가 깔끔하게 유지되지만
     충돌가능성이 크고, 원격에 있는 브랜치를 Rebase 하면 안된다.
+
+<<<<<<< Updated upstream
+    ver2 커밋
+=======
+<<<<<<< HEAD
+    ver2 커밋
+=======
+    ver3 커밋
+
+>>>>>>> Stashed changes
+    
